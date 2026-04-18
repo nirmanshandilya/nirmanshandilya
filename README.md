@@ -39,11 +39,11 @@ caffeine_dependency: no (not like you lot)
 
 ```
 🖥️  Backend Development      — APIs, databases, making things actually work
-🐧  Linux                    — btw i use arch  (jk. maybe.)
+🐧  Linux                    — arch is old. i use Nix btw
 🧩  Competitive Programming  — eating algorithmic problems for breakfast
 🔧  Problem Solving          — if it's broken, I will fix it. eventually.
 🌐  System Design            — thinking about scale before I have any users
-📖  Open Source              — reading other people's code at 2am
+📖  Open Source              — reading other people's code with pending assignments
 ```
 
 ---
