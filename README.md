@@ -1,11 +1,5 @@
 <!-- Header wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nirman%20Shandilya&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=backend%20dev%20%7C%20linux%20nerd%20%7C%20cp%20enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-<div align="center">
-
-<!-- Blocky pixel coding gif -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
-
 <br/>
 
 ```
@@ -107,19 +101,6 @@ caffeine_dependency: no (not like you lot)
 
 ---
 
-## `$ crontab -l  # what i actually do daily`
-
-```
-0  8  * * *   read editorials I don't understand yet
-*/2 * * * *   check if my last submission got AC
-0  14 * * *   google "how does X work" and fall into a rabbit hole
-0  22 * * *   work on side projects
-30 23 * * *   "okay just one more problem"
-0   2 * * *   sleep (eventually)
-```
-
----
-
 ## `$ ping me`
 
 <div align="center">
@@ -136,15 +117,6 @@ caffeine_dependency: no (not like you lot)
 </div>
 
 ---
-
-<div align="center">
-
-```
-  fun fact: this README took longer to write than my last project.
-  worth it.
-```
-
-</div>
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
