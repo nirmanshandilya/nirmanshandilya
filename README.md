@@ -1,14 +1,13 @@
 <!-- Header wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nirman%20Shandilya&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=backend%20dev%20%7C%20linux%20nerd%20%7C%20cp%20enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 <br/>
-
-<div align="center">
 ```
+<div align="center">
   not a caffeine addict. not a night owl by choice.
   just a college student with dark circles, glasses,
   and an inexplicable love for segmentation faults.
-```  
 </div>
+```
 
 
 </div>
