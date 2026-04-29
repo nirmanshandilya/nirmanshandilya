@@ -1,14 +1,6 @@
 <!-- Header wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nirman%20Shandilya&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=backend%20dev%20%7C%20linux%20nerd%20%7C%20cp%20enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 <br/>
-```
-<div align="center">
-  not a caffeine addict. not a night owl by choice.
-  just a college student with dark circles, glasses,
-  and an inexplicable love for segmentation faults.
-</div>
-```
-
 
 </div>
 
@@ -37,7 +29,7 @@ caffeine_dependency: no (not like you lot)
 🖥️  Backend Development      — APIs, databases, making things actually work
 🐧  Linux                    — arch is old. i use Nix btw
 🧩  Competitive Programming  — eating algorithmic problems for breakfast
-🔧  Problem Solving          — if it's broken, I will fix it. eventually.
+🔧  Problem Solving          — if it's broken, I will fix it. (eventually)
 🌐  System Design            — thinking about scale before I have any users
 📖  Open Source              — reading other people's code with pending assignments
 ```
@@ -49,26 +41,22 @@ caffeine_dependency: no (not like you lot)
 <div align="center">
 
 **Languages**
-
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Backend & DB**
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frontend (when I have to)**
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Tools & OS**
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -113,8 +101,6 @@ caffeine_dependency: no (not like you lot)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirmanshandilya.oc@gmail.com)
 
 <br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=nirmanshandilya&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
 
 </div>
 
