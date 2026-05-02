@@ -28,7 +28,7 @@ caffeine_dependency: no (not like you lot)
 ```
 🖥️  Backend Development      — APIs, databases, making things actually work
 🐧  Linux                    — arch is old. i use Nix btw
-🧩  Competitive Programming  — eating algorithmic problems for breakfast
+🧩  Competitive Programming  — on that infamous russian website
 🔧  Problem Solving          — if it's broken, I will fix it. (eventually)
 🌐  System Design            — thinking about scale before I have any users
 📖  Open Source              — reading other people's code with pending assignments
@@ -41,28 +41,23 @@ caffeine_dependency: no (not like you lot)
 <div align="center">
 
 **Languages**
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Backend & DB**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frontend (when I have to)**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Tools & OS**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-
 </div>
 
 ---
@@ -80,9 +75,6 @@ caffeine_dependency: no (not like you lot)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nirmanshandilya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmanshandilya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="40%"/>
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmanshandilya&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9" width="55%"/>
@@ -91,7 +83,7 @@ caffeine_dependency: no (not like you lot)
 
 ---
 
-## `$ ping me`
+## `$ profiles`
 
 <div align="center">
 
